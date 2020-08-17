@@ -1,0 +1,50 @@
+[33mcommit 357b8bc041135e948b6b86488bc631cb80ee93f8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 209ae25 322a97e
+Author: Joseph, Praison <praison.joseph@gmail.com>
+Date:   Wed Aug 12 08:54:06 2020 +0530
+
+    Merge https://github.com/praisonjoseph/tdd-django
+    
+    merged from remote repo
+
+[33mcommit 209ae25ca52c43a5a5b50cd7a4186e01341a329b[m
+Author: Joseph, Praison <praison.joseph@gmail.com>
+Date:   Wed Aug 12 08:25:32 2020 +0530
+
+     Functional tests now checks that we can input a to do item
+
+[33mcommit e7fd26269a5f78a32ce1aee5c9899a1b4b8324d1[m
+Author: Joseph, Praison <praison.joseph@gmail.com>
+Date:   Tue Aug 11 22:21:08 2020 +0530
+
+    views returning minimal html
+
+[33mcommit 802adf113582fdc296c7d7e850db6d93161c5e49[m
+Author: Joseph, Praison <praison.joseph@gmail.com>
+Date:   Tue Aug 11 21:52:06 2020 +0530
+
+    First unit test and url mapping, dummy view as well
+
+[33mcommit 9bfef243845a9868763dfc06b67dab90435477e1[m
+Author: Joseph, Praison <praison.joseph@gmail.com>
+Date:   Tue Aug 11 17:10:12 2020 +0530
+
+    Added app for lists, with deliberately failing unit test
+
+[33mcommit 286d6e513bc9575b2ad55a98fa1f5da61df4e531[m
+Author: Joseph, Praison <praison.joseph@gmail.com>
+Date:   Tue Aug 11 16:39:51 2020 +0530
+
+    First FT specced out in comments, and now uses unittest
+
+[33mcommit 322a97ec9223a114d38e58fbfae361e2cbed5d66[m
+Author: Praison Joseph <praison.joseph@gmail.com>
+Date:   Tue Aug 11 15:53:30 2020 +0530
+
+    Create README.md
+
+[33mcommit 5d53c3f004973ad920f42e4e04eeb6155030149f[m
+Author: Joseph, Praison <praison.joseph@gmail.com>
+Date:   Tue Aug 11 15:48:08 2020 +0530
+
+    created a initial django setup
