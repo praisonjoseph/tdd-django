@@ -1,5 +1,6 @@
 db.sqlite3
 geckodriver.log
 geckodriver.exe
+scrappad.txt
 __pycache__
 *.pyc
